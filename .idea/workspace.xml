@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40cc1c08-aed9-45a3-b767-db0dcd1515fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/software/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1j5FCbd7cxWdakAEsiNo1nnXh1N" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunManager" selected="Application.ImplicitClassApp">
+    <configuration name="FunctionApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.advancedOperation.FunctionApp" />
+      <module name="scala-train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichuan.advancedOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitClassApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.implicitConversion.ImplicitClassApp" />
+      <module name="scala-train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichuan.implicitConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitConversionApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.implicitConversion.ImplicitConversionApp" />
+      <module name="scala-train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichuan.implicitConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitParamApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.implicitConversion.ImplicitParamApp" />
+      <module name="scala-train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichuan.implicitConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringAdvancedOperationApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.advancedOperation.StringAdvancedOperationApp" />
+      <module name="scala-train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichuan.advancedOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImplicitClassApp" />
+        <item itemvalue="Application.ImplicitParamApp" />
+        <item itemvalue="Application.ImplicitConversionApp" />
+        <item itemvalue="Application.FunctionApp" />
+        <item itemvalue="Application.StringAdvancedOperationApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/plumber" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40cc1c08-aed9-45a3-b767-db0dcd1515fe" name="Default Changelist" comment="" />
+      <created>1603085918399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603085918399</updated>
+      <workItem from="1603085920457" duration="1455000" />
+      <workItem from="1603091251387" duration="54000" />
+      <workItem from="1603124841515" duration="2758000" />
+      <workItem from="1603177595482" duration="587000" />
+      <workItem from="1603178989410" duration="9000" />
+      <workItem from="1603191718428" duration="11569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="225" key="#Auto_Import" timestamp="1603210964885">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="225" key="#Auto_Import/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603210964885" />
+    <state x="755" y="-997" key="#com.intellij.ide.util.MemberChooser" timestamp="1603195088108">
+      <screen x="-338" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="755" y="-997" key="#com.intellij.ide.util.MemberChooser/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603195088108" />
+    <state width="1752" height="223" key="GridCell.Tab.0.bottom" timestamp="1603247349482">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2520" height="429" key="GridCell.Tab.0.bottom/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603198587588" />
+    <state width="1752" height="223" key="GridCell.Tab.0.bottom/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603247349482" />
+    <state width="1752" height="223" key="GridCell.Tab.0.bottom/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603211730245" />
+    <state width="2520" height="405" key="GridCell.Tab.0.bottom/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086744235" />
+    <state width="1752" height="304" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1603177549730" />
+    <state width="1752" height="223" key="GridCell.Tab.0.center" timestamp="1603247349478">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2520" height="429" key="GridCell.Tab.0.center/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603198587584" />
+    <state width="1752" height="223" key="GridCell.Tab.0.center/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603247349478" />
+    <state width="1752" height="223" key="GridCell.Tab.0.center/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603211730242" />
+    <state width="2520" height="405" key="GridCell.Tab.0.center/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086744231" />
+    <state width="1752" height="304" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1603177549727" />
+    <state width="1752" height="223" key="GridCell.Tab.0.left" timestamp="1603247349476">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2520" height="429" key="GridCell.Tab.0.left/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603198587583" />
+    <state width="1752" height="223" key="GridCell.Tab.0.left/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603247349476" />
+    <state width="1752" height="223" key="GridCell.Tab.0.left/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603211730241" />
+    <state width="2520" height="405" key="GridCell.Tab.0.left/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086744228" />
+    <state width="1752" height="304" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1603177549726" />
+    <state width="1752" height="223" key="GridCell.Tab.0.right" timestamp="1603247349480">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2520" height="429" key="GridCell.Tab.0.right/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603198587587" />
+    <state width="1752" height="223" key="GridCell.Tab.0.right/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603247349480" />
+    <state width="1752" height="223" key="GridCell.Tab.0.right/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603211730244" />
+    <state width="2520" height="405" key="GridCell.Tab.0.right/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086744233" />
+    <state width="1752" height="304" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1603177549729" />
+    <state x="563" y="279" key="SettingsEditor" timestamp="1603162095917">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="563" y="279" key="SettingsEditor/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603162095917" />
+    <state x="466" y="-1081" key="SettingsEditor/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086262996" />
+    <state x="563" y="279" key="SettingsEditor/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1603091300381" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1603246497950">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="500" height="400" key="SwitcherDM/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603246497950" />
+    <state width="500" height="400" key="SwitcherDM/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603210609669" />
+    <state width="500" height="443" key="SwitcherDM/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086210541" />
+    <state x="463" y="-1117" width="958" height="870" key="search.everywhere.popup" timestamp="1603196873034">
+      <screen x="-338" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="463" y="-1117" width="958" height="870" key="search.everywhere.popup/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603196873034" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1603125637949" />
+  </component>
+</project>
