@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40cc1c08-aed9-45a3-b767-db0dcd1515fe" name="Default Changelist" comment="" />
+    <list default="true" id="40cc1c08-aed9-45a3-b767-db0dcd1515fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/collection/ArrayApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/collection/VectorApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/gatling/BaiDuSimulation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/gatling/reade.me" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/method/AccessPermissionInMethodApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/oop/AbstractClassApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/oop/ApplyTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/oop/CasePerson.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/oop/DateUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/oop/InnerClassApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/oop/TraitTestApp.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/yichuan/HelloScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/HelloScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/yichuan/oop/ConstructorApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/yichuan/oop/ConstructorApp.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yichuan/oop/ConstructorApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yichuan/oop/ConstructorApp$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yichuan/oop/ConstructorApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yichuan/oop/ConstructorApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yichuan/oop/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yichuan/oop/Person.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +33,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Package Object" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -34,6 +57,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1j5FCbd7cxWdakAEsiNo1nnXh1N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,8 +68,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,13 +85,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Application.ImplicitClassApp">
-    <configuration name="FunctionApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yichuan.advancedOperation.FunctionApp" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="ApplyTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.oop.ApplyTest" />
       <module name="scala-train" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yichuan.advancedOperation.*" />
+          <option name="PATTERN" value="com.yichuan.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplicitClassApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yichuan.implicitConversion.ImplicitClassApp" />
+    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.oop.DateUtils" />
       <module name="scala-train" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yichuan.implicitConversion.*" />
+          <option name="PATTERN" value="com.yichuan.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplicitConversionApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yichuan.implicitConversion.ImplicitConversionApp" />
+    <configuration name="InnerClassApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.oop.InnerClassApp" />
       <module name="scala-train" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yichuan.implicitConversion.*" />
+          <option name="PATTERN" value="com.yichuan.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplicitParamApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yichuan.implicitConversion.ImplicitParamApp" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.oop.Test" />
       <module name="scala-train" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yichuan.implicitConversion.*" />
+          <option name="PATTERN" value="com.yichuan.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAdvancedOperationApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yichuan.advancedOperation.StringAdvancedOperationApp" />
+    <configuration name="TraitTestApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichuan.oop.TraitTestApp" />
       <module name="scala-train" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yichuan.advancedOperation.*" />
+          <option name="PATTERN" value="com.yichuan.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ImplicitClassApp" />
-        <item itemvalue="Application.ImplicitParamApp" />
-        <item itemvalue="Application.ImplicitConversionApp" />
-        <item itemvalue="Application.FunctionApp" />
-        <item itemvalue="Application.StringAdvancedOperationApp" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TraitTestApp" />
+        <item itemvalue="Application.DateUtils" />
+        <item itemvalue="Application.ApplyTest" />
+        <item itemvalue="Application.InnerClassApp" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +195,17 @@
       <workItem from="1603124841515" duration="2758000" />
       <workItem from="1603177595482" duration="587000" />
       <workItem from="1603178989410" duration="9000" />
-      <workItem from="1603191718428" duration="11569000" />
+      <workItem from="1603191718428" duration="12020000" />
+      <workItem from="1603248418918" duration="1339000" />
+      <workItem from="1603252999588" duration="803000" />
+      <workItem from="1603261960636" duration="26000" />
+      <workItem from="1603276786367" duration="1498000" />
+      <workItem from="1603427098232" duration="1412000" />
+      <workItem from="1603532605712" duration="5952000" />
+      <workItem from="1603781048141" duration="23000" />
+      <workItem from="1603881431766" duration="817000" />
+      <workItem from="1604020474473" duration="860000" />
+      <workItem from="1604026261089" duration="16937000" />
     </task>
     <servers />
   </component>
@@ -179,58 +217,137 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="496" y="225" key="#Auto_Import/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603210964885" />
-    <state x="755" y="-997" key="#com.intellij.ide.util.MemberChooser" timestamp="1603195088108">
+    <state x="371" y="-1151" key="#Plugins" timestamp="1604026233540">
       <screen x="-338" y="-1440" width="2560" height="1440" />
     </state>
+    <state x="496" y="225" key="#Plugins/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603248387679" />
+    <state x="371" y="-1151" key="#Plugins/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1604026233540" />
+    <state x="737" y="-908" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603276929169">
+      <screen x="-338" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="737" y="-908" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603276929169" />
+    <state x="765" y="345" key="#com.intellij.ide.util.MemberChooser" timestamp="1604120060983">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
     <state x="755" y="-997" key="#com.intellij.ide.util.MemberChooser/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603195088108" />
-    <state width="1752" height="223" key="GridCell.Tab.0.bottom" timestamp="1603247349482">
+    <state x="765" y="345" key="#com.intellij.ide.util.MemberChooser/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1604120060983" />
+    <state x="765" y="345" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1604050166901" />
+    <state x="552" y="164" key="CommitChangelistDialog2" timestamp="1604049880544">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="552" y="164" key="CommitChangelistDialog2/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603248167018" />
+    <state x="552" y="164" key="CommitChangelistDialog2/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1604049880544" />
+    <state width="1752" height="250" key="GridCell.Tab.0.bottom" timestamp="1604122171741">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="2520" height="429" key="GridCell.Tab.0.bottom/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603198587588" />
-    <state width="1752" height="223" key="GridCell.Tab.0.bottom/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603247349482" />
-    <state width="1752" height="223" key="GridCell.Tab.0.bottom/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603211730245" />
-    <state width="2520" height="405" key="GridCell.Tab.0.bottom/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086744235" />
+    <state width="1752" height="277" key="GridCell.Tab.0.bottom/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603780910562" />
+    <state width="1752" height="250" key="GridCell.Tab.0.bottom/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1604122171741" />
+    <state width="2520" height="397" key="GridCell.Tab.0.bottom/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1604039683413" />
+    <state width="1752" height="250" key="GridCell.Tab.0.bottom/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1604052333040" />
     <state width="1752" height="304" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1603177549730" />
-    <state width="1752" height="223" key="GridCell.Tab.0.center" timestamp="1603247349478">
+    <state width="1752" height="299" key="GridCell.Tab.0.bottom/0.23.1792.1043@0.23.1792.1043" timestamp="1603286816503" />
+    <state width="1752" height="250" key="GridCell.Tab.0.center" timestamp="1604122171739">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="2520" height="429" key="GridCell.Tab.0.center/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603198587584" />
-    <state width="1752" height="223" key="GridCell.Tab.0.center/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603247349478" />
-    <state width="1752" height="223" key="GridCell.Tab.0.center/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603211730242" />
-    <state width="2520" height="405" key="GridCell.Tab.0.center/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086744231" />
+    <state width="1752" height="277" key="GridCell.Tab.0.center/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603780910559" />
+    <state width="1752" height="250" key="GridCell.Tab.0.center/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1604122171739" />
+    <state width="2520" height="397" key="GridCell.Tab.0.center/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1604039683410" />
+    <state width="1752" height="250" key="GridCell.Tab.0.center/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1604052333037" />
     <state width="1752" height="304" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1603177549727" />
-    <state width="1752" height="223" key="GridCell.Tab.0.left" timestamp="1603247349476">
+    <state width="1752" height="299" key="GridCell.Tab.0.center/0.23.1792.1043@0.23.1792.1043" timestamp="1603286816499" />
+    <state width="1752" height="250" key="GridCell.Tab.0.left" timestamp="1604122171737">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="2520" height="429" key="GridCell.Tab.0.left/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603198587583" />
-    <state width="1752" height="223" key="GridCell.Tab.0.left/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603247349476" />
-    <state width="1752" height="223" key="GridCell.Tab.0.left/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603211730241" />
-    <state width="2520" height="405" key="GridCell.Tab.0.left/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086744228" />
+    <state width="1752" height="277" key="GridCell.Tab.0.left/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603780910556" />
+    <state width="1752" height="250" key="GridCell.Tab.0.left/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1604122171737" />
+    <state width="2520" height="397" key="GridCell.Tab.0.left/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1604039683409" />
+    <state width="1752" height="250" key="GridCell.Tab.0.left/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1604052333035" />
     <state width="1752" height="304" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1603177549726" />
-    <state width="1752" height="223" key="GridCell.Tab.0.right" timestamp="1603247349480">
+    <state width="1752" height="299" key="GridCell.Tab.0.left/0.23.1792.1043@0.23.1792.1043" timestamp="1603286816496" />
+    <state width="1752" height="250" key="GridCell.Tab.0.right" timestamp="1604122171740">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="2520" height="429" key="GridCell.Tab.0.right/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603198587587" />
-    <state width="1752" height="223" key="GridCell.Tab.0.right/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603247349480" />
-    <state width="1752" height="223" key="GridCell.Tab.0.right/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603211730244" />
-    <state width="2520" height="405" key="GridCell.Tab.0.right/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086744233" />
+    <state width="1752" height="277" key="GridCell.Tab.0.right/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603780910560" />
+    <state width="1752" height="250" key="GridCell.Tab.0.right/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1604122171740" />
+    <state width="2520" height="397" key="GridCell.Tab.0.right/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1604039683411" />
+    <state width="1752" height="250" key="GridCell.Tab.0.right/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1604052333038" />
     <state width="1752" height="304" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1603177549729" />
+    <state width="1752" height="299" key="GridCell.Tab.0.right/0.23.1792.1043@0.23.1792.1043" timestamp="1603286816501" />
     <state x="563" y="279" key="SettingsEditor" timestamp="1603162095917">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="563" y="279" key="SettingsEditor/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603162095917" />
     <state x="466" y="-1081" key="SettingsEditor/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086262996" />
     <state x="563" y="279" key="SettingsEditor/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1603091300381" />
-    <state width="500" height="400" key="SwitcherDM" timestamp="1603246497950">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="500" height="443" key="SwitcherDM" timestamp="1604039696293">
+      <screen x="-338" y="-1440" width="2560" height="1440" />
     </state>
     <state width="500" height="400" key="SwitcherDM/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603246497950" />
     <state width="500" height="400" key="SwitcherDM/-400.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603210609669" />
-    <state width="500" height="443" key="SwitcherDM/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1603086210541" />
-    <state x="463" y="-1117" width="958" height="870" key="search.everywhere.popup" timestamp="1603196873034">
+    <state width="500" height="443" key="SwitcherDM/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1604039696293" />
+    <state width="500" height="400" key="SwitcherDM/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1603679835526" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1603248193031">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603248193031" />
+    <state x="479" y="211" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603679515929">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="479" y="211" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1603679515929" />
+    <state x="463" y="-1117" width="959" height="871" key="search.everywhere.popup" timestamp="1604032610946">
       <screen x="-338" y="-1440" width="2560" height="1440" />
     </state>
     <state x="463" y="-1117" width="958" height="870" key="search.everywhere.popup/-338.-1440.2560.1440/0.0.1792.1120@-338.-1440.2560.1440" timestamp="1603196873034" />
+    <state x="561" y="251" width="671" height="677" key="search.everywhere.popup/-338.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1603248373809" />
+    <state x="463" y="-1117" width="959" height="871" key="search.everywhere.popup/0.0.1792.1120/-338.-1440.2560.1440@-338.-1440.2560.1440" timestamp="1604032610946" />
+    <state x="561" y="251" width="671" height="677" key="search.everywhere.popup/0.0.1792.1120/-338.-1440.2560.1440@0.0.1792.1120" timestamp="1603679388175" />
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1603125637949" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
   </component>
 </project>
