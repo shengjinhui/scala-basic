@@ -7,15 +7,15 @@ package com.yichuan.patternMatching
  */
 object CaseClassMatchingApp extends App {
 
-  class Person
+  class Man
 
-  case class CTO(name: String, age: Int) extends Person
+  case class CTO(name: String, age: Int) extends Man
 
-  case class Employee(name: String, age: Int) extends Person
+  case class Employee(name: String, age: Int) extends Man
 
-  case class Other(name: String, age: Int) extends Person
+  case class Other(name: String, age: Int) extends Man
 
-  def caseClassMatch(person: Person): Unit = {
+  def caseClassMatch(person: Man): Unit = {
     person match {
       case CTO(name, age) => println("CTO name is: " + name + ",age is: " + age)
       case Employee(name, age) => println("Employee name is: " + name + ",age is: " + age)
